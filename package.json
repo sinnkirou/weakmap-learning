@@ -1,0 +1,14 @@
+{
+  "name": "weakmap",
+  "version": "1.0.0",
+  "description": "weakmap learning",
+  "scripts": {
+    "map": "node --expose-gc map.js",
+    "weakmap": "node --expose-gc weakmap.js"
+  },
+  "keywords": [
+    "weakmap"
+  ],
+  "author": "",
+  "license": "ISC"
+}
